@@ -1,3 +1,4 @@
+//Steven Liu
 import java.util.Scanner;
 
 public class Rectangle 
